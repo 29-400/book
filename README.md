@@ -1,0 +1,37 @@
+[0920 book.html](https://github.com/user-attachments/files/22691243/0920.book.html)
+<!DOCTYPE html>
+<html lang="ja">
+<html>     
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>本の紹介</title>
+     <link href="css/style.css" rel="stylesheet" 
+      medhia="all">
+     
+</head>
+
+<body>
+  <div class="container">
+    <h1>くどうれいん作品紹介</h1>
+    <p>くどうれいん⇒岩手県盛岡市出身の作家・歌人　短歌やエッセイ、小説、絵本など幅広いジャンルで活躍</p>
+    <p>【代表作】芥川賞候補作となった『氷柱の声』エッセイ集『わたしを空腹にしないほうがいい』『桃を煮るひと』など</p>
+    <img src="https://www.ehonnavi.net/img/cover/500/500_171335.jpg" width="20%">
+    <img src="https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/59791867428f2d5f57006189/a732d0cbc625d1482296.jpeg/fit=cover,w=800,h=800" width="30%">
+    <img src="https://1satsu.jp/Item/Wysiwyg/%E2%98%85%E8%A3%85%E4%B8%81%E3%83%A9%E3%83%95%E7%94%BB%E5%83%8F%E3%81%93%E3%82%8C%E3%82%92%E4%BD%BF%E3%81%86%E2%98%85%E6%A1%83%E7%85%AE_%E3%82%AB%E3%83%90%E3%83%BCRGB_0502.jpg" width="22%">
+
+  </div>
+  <p>　</p>
+  <div class="container">
+    <h2>〜上記以外に紹介するくどうれいん作品〜</h2>
+  <ol>
+     <li>『うたうおばけ』</li>
+     <p>「人生はドラマではないが、シーンは急にくる。」というキャッチコピーにあるように、<br>ともだちと過ごす日常を切り取ったエッセイです。女優の上白石萌音さんが自身の「人生を変えた10冊」のひとつとして<br>解説文を書いています。</p>
+     <img src="https://dvs-cover.kodansha.co.jp/0000380279/tdWhWEJgpORByyFe5E9tPRoOYLfFXnK8jr1kRygj.jpg" width="25%">
+     <li>『コーヒーにミルクを入れるような愛』</li>
+     <p>「飛んじゃったサンキャッチャー」「泣きながらマラカス」など読者の心をワクワクさせるユニークな題名が魅力的な一冊です。</p>
+     <img src="https://dvs-cover.kodansha.co.jp/0000387417/XonDdFElFHmF5pWOQJfYMlmFG2kVDac9scLQQVdK.jpg" width="25%">
+  </ol>
+ </div>
+</body>
+</html>
