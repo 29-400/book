@@ -1,4 +1,4 @@
-[0920 book.html](https://github.com/user-attachments/files/22691243/0920.book.html)
+
 <!DOCTYPE html>
 <html lang="ja">
 <html>     
